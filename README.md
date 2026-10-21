@@ -16,10 +16,18 @@
 
 ## 最近在做
 
-| | |
-| :--- | :--- |
-| **[DeepTicket](https://github.com/shanananana/deepticket)** | 企业内部工单排障，少点沟通。少点烦心事。 |
-| **[ad_agent](https://github.com/shanananana/ad_agent)** | 做过一个广告的Agent。自动调一下价的话不会把roi调崩吧 |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><a href="https://github.com/shanananana/deepticket"><strong>DeepTicket</strong></a><br />
+      <sub>企业内部工单排障，少点沟通。少点烦心事。</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><a href="https://github.com/shanananana/ad_agent"><strong>ad_agent</strong></a><br />
+      <sub>做过一个广告的 Agent。自动调一下价的话，不会把 ROI 调崩吧？</sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
