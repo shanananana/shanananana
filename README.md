@@ -16,18 +16,10 @@
 
 ## 最近在做
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p><a href="https://github.com/shanananana/deepticket"><strong>DeepTicket</strong></a><br />
-      <sub>企业内部工单排障，少点沟通。少点烦心事。</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><a href="https://github.com/shanananana/ad_agent"><strong>ad_agent</strong></a><br />
-      <sub>做过一个广告的 Agent。自动调一下价的话，不会把 ROI 调崩吧？</sub></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/shanananana/deepticket"><img src="./assets/deepticket-card.svg" alt="DeepTicket" width="49%" /></a>
+  <a href="https://github.com/shanananana/ad_agent"><img src="./assets/ad-agent-card.svg" alt="ad_agent" width="49%" /></a>
+</p>
 
 ---
 
