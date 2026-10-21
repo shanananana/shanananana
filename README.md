@@ -8,12 +8,11 @@
 
 ## 关于我
 
-- 👋 **shanananana**。GitHub 只是我生活的一小块：这里主要放能长期维护、别人也可能用得上的东西。
-- 📍 常住 **北京**，也会为看展、吃饭、出门乱逛专门留时间——不是只有屏幕那一面。
-- ☕ 日常大概是：写代码、翻两页书或播客、约朋友吃饭、偶尔跑远一点看山看水；拍照多于修图，记录为主。
-- 🛠 工作上做 Agent 和内部系统相关的事；**[DeepTicket](https://github.com/shanananana/deepticket)** 是其中一条线——自己真用，才开源出来。
-- 🎭 私下还会捣鼓 **[shanaTavern](https://github.com/shanananana/shanaTavern)** 这类纯好玩的小东西，和 KPI 无关。
-- 💬 这里留言我尽量回；要是只为聊天，朋友圈可能比 Issue 更合适。
+- **shanananana**，98 年生，人在北京。上时代留下来的那种老二次元。
+- 听歌很偏 **毛不易**，别的也听，但循环列表里他占比最高。
+- 爱爬山。给自己挖了个坑：想把 **三山五岳** 和 **五湖四海** 都走完——进度大概是 **三山 1/3 · 五岳 4/5 · 五湖四海 0**（后头这项还没动过）。
+- 白天写后端，GitHub 上主要是 **[DeepTicket](https://github.com/shanananana/deepticket)**；**[shanaTavern](https://github.com/shanananana/shanaTavern)** 纯属个人爱好，和上班无关。
+- 仓库有问题开 Issue 就行，看见会回。
 
 ---
 
