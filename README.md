@@ -6,12 +6,12 @@
 
 ---
 
-## 关于我
+## Hi there 👋
 
-- 98 年生，人在北京。老二次元，平时写后端。
-- 喜欢毛不易的歌，偶尔也爬山。
-- 想去三山五岳、五湖四海看看。目前是 **三山 1/3 · 五岳 4/5 · 五湖四海 0**。
-- GitHub 上主要放 **[DeepTicket](https://github.com/shanananana/deepticket)**，**[shanaTavern](https://github.com/shanananana/shanaTavern)** 是下班后做着玩的东西。
+- 98 年生，北京后端。
+- 老二次元，喜欢毛不易，也喜欢爬山。
+- 想去三山五岳、五湖四海看看：**三山 1/3 · 五岳 4/5 · 五湖四海 0**。
+- 主要在维护 **[DeepTicket](https://github.com/shanananana/deepticket)**，下班后做 **[shanaTavern](https://github.com/shanananana/shanaTavern)**。
 - 仓库有问题可以开 Issue，我看到了会回。
 
 ---
@@ -20,8 +20,8 @@
 
 | | |
 | :--- | :--- |
-| **[DeepTicket](https://github.com/shanananana/deepticket)** | 工单和告警来了，少人肉翻日志。我持续改的这一版。 |
-| **[ad_agent](https://github.com/shanananana/ad_agent)** | 广告数据分析向的 Agent，文档齐全，当垂类参考即可。 |
+| **[DeepTicket](https://github.com/shanananana/deepticket)** | 工单和告警来了，少人肉翻日志。 |
+| **[ad_agent](https://github.com/shanananana/ad_agent)** | 做广告数据分析的 Agent，偶尔维护。 |
 
 <p align="center">
   <a href="https://github.com/shanananana/deepticket"><img src="https://img.shields.io/github/stars/shanananana/deepticket?style=social" alt="deepticket stars" /></a>
