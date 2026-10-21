@@ -66,6 +66,7 @@
 
 | Project | One-liner |
 | --- | --- |
+| [**deepticket4java**](https://github.com/shanananana/deepticket4java) | DeepTicket 的 Java / Spring AI 实现线 |
 | [**spring-ai-markdown-skills**](https://github.com/shanananana/spring-ai-markdown-skills) | Spring AI + Markdown 技能包实验 |
 | [**mcpDemo**](https://github.com/shanananana/mcpDemo) | MCP 集成小 Demo |
 | [**shanaTavern**](https://github.com/shanananana/shanaTavern) | 本地 SillyTavern 风格 AI 酒馆（FastAPI） |
