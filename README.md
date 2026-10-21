@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AIOps%20%26%20Agents-1f6feb?style=for-the-badge" alt="focus" />
   <img src="https://img.shields.io/badge/Location-Beijing-8957e5?style=for-the-badge" alt="location" />
-  <img src="https://img.shields.io/badge/Day%20Job-MOMO.Inc-21262d?style=for-the-badge" alt="company" />
 </p>
 
 ---
