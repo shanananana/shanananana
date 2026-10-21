@@ -17,6 +17,6 @@
   <text x="55" y="39" fill="#dfb5ff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" letter-spacing="1">02</text>
   <text x="28" y="91" fill="#f7f0ff" font-family="Arial, sans-serif" font-size="27" font-weight="700">ad_agent</text>
   <rect x="28" y="108" width="140" height="2" rx="1" fill="url(#line)"/>
-  <text x="28" y="136" fill="#d1c5df" font-family="Arial, sans-serif" font-size="15">做过一个广告的 Agent。</text>
-  <text x="28" y="157" fill="#9384a6" font-family="Arial, sans-serif" font-size="13">自动调价，别把 ROI 调崩了。</text>
+  <text x="28" y="136" fill="#d1c5df" font-family="Arial, sans-serif" font-size="15">一个可以自动调价的广告 Agent</text>
+  <text x="28" y="157" fill="#9384a6" font-family="Arial, sans-serif" font-size="13">只调一下的话，应该不会把 ROI 调崩吧？</text>
 </svg>
