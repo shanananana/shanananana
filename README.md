@@ -32,24 +32,12 @@
 
 ---
 
-## 其它仓库
+## GitHub 数据
 
-| 仓库 | 一句话 |
-| --- | --- |
-| [deepticket4java](https://github.com/shanananana/deepticket4java) | DeepTicket 的 Java 线 |
-| [spring-ai-markdown-skills](https://github.com/shanananana/spring-ai-markdown-skills) | Markdown 技能加载 |
-| [mcpDemo](https://github.com/shanananana/mcpDemo) | MCP 集成备忘 |
-
----
-
-<details>
-  <summary><strong>GitHub 数据（可选）</strong></summary>
-  <br />
-  <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=shanananana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9" alt="GitHub stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css,scss,dockerfile" alt="Most used languages" />
-  </p>
-</details>
+<p align="center">
+  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=shanananana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9&card_width=430" alt="GitHub stats" />
+  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css,scss,dockerfile&card_width=430" alt="Most used languages" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shanananana&color=8957e5&style=flat-square&label=views" alt="profile views" />
