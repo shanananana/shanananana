@@ -8,26 +8,21 @@
 
 ## Hi there 👋
 
-- **shanananana** 这个名字来自《灼眼的夏娜》里的夏娜。98 年生，北京后端。
-- 老二次元，喜欢毛不易，也喜欢爬山。
-- 想去三山五岳、五湖四海看看：**三山 1/3 · 五岳 4/5 · 五湖四海 0**。
-- 主要在维护 **[DeepTicket](https://github.com/shanananana/deepticket)**，下班后做 **[shanaTavern](https://github.com/shanananana/shanaTavern)**。
-- 仓库有问题可以开 Issue，我看到了会回。
+- 98 年生。`shanananana` 这个名字来自《灼眼的夏娜》里的夏娜。
+- 老二次元，喜欢毛不易的歌，偶尔爬山。
+- 三山五岳、五湖四海还在慢慢打卡：**三山 1/3 · 五岳 4/5 · 五湖四海 0**。
+- 平时写后端，最近在折腾 **[DeepTicket](https://github.com/shanananana/deepticket)**。
+- **[shanaTavern](https://github.com/shanananana/shanaTavern)** 是下班后做着玩的东西。
+- 有事开 Issue，看到会回。
 
 ---
 
-## 最近在维护
+## 最近在折腾
 
 | | |
 | :--- | :--- |
-| **[DeepTicket](https://github.com/shanananana/deepticket)** | 工单和告警来了，少人肉翻日志。 |
-| **[ad_agent](https://github.com/shanananana/ad_agent)** | 做广告数据分析的 Agent，偶尔维护。 |
-
-<p align="center">
-  <a href="https://github.com/shanananana/deepticket"><img src="https://img.shields.io/github/stars/shanananana/deepticket?style=social" alt="deepticket stars" /></a>
-  &nbsp;
-  <a href="https://github.com/shanananana/ad_agent"><img src="https://img.shields.io/github/stars/shanananana/ad_agent?style=social" alt="ad_agent stars" /></a>
-</p>
+| **[DeepTicket](https://github.com/shanananana/deepticket)** | 给工单排障用的东西，自己还在用。 |
+| **[ad_agent](https://github.com/shanananana/ad_agent)** | 之前做的广告 Agent，偶尔回来看看。 |
 
 ---
 

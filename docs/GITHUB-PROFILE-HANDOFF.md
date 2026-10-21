@@ -78,8 +78,8 @@
 | 爱好项目 | shanaTavern（和 KPI / 上班无关） |
 | 联系 | Issue 可见会回（具体措辞需用户定稿） |
 
-**当前 README「关于我」仍偏 AI 味，待重写示例（勿直接当终稿）：**  
-含「给自己挖了个坑」「循环列表占比最高」「后头这项还没动过」等——用户不满意。
+**当前 README「Hi there 👋」已按用户反馈改成短句：**
+保留 98 年、名字来自《灼眼的夏娜》、喜欢毛不易的歌、爬山进度和项目事实；北京不在 README 重复强调，由 GitHub 个人资料的 Location 展示。
 
 ---
 
@@ -87,16 +87,16 @@
 
 ```
 顶图 header.svg
-## 关于我          ← 5 条 bullet，待改语气
-## 最近在维护      ← 2 项目表格 + social star 徽章
-## GitHub 数据     ← stats + top-langs 两图，默认展开
+## Hi there 👋     ← 6 条简短的个人介绍
+## 最近在折腾      ← 2 项目表格，无额外 star 徽章
+## GitHub 数据     ← stats + top-langs 两图，等宽等高表格
 （结束，无 footer / views）
 ```
 
 ### 4.1 顶图文案（header.svg）
 
 - 主标题：`shanananana`
-- 副标题：`在北京做后端，开源一些自己在用的项目`
+- 副标题：`平时写后端，业余时间折腾自己的项目`
 - 用户曾否决副标题：`北京 · 写代码，也好好过日子`（太二）
 
 ### 4.2 GitHub Stats URL（勿加 include_all_commits）
@@ -174,14 +174,15 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layou
 
 ### 7.1 优先级高
 
-- [ ] **重写 `README.md`「关于我」**：仅用 §3.1 事实，语气自然，用户审一遍再 push。
-- [ ] **顶图副标题**是否与关于我一致，避免两套人设。
+- [x] **重写 `README.md`「关于我」**：已改成短句和日常说法，并加入名字来源。
+- [x] **顶图副标题**已改为「平时写后端，业余时间折腾自己的项目」。
 - [ ] 用户审阅后更新 **GitHub Settings → Bio / Website**（可选）。
 
 ### 7.2 优先级中
 
 - [ ] 删除未使用的 `assets/footer.svg`（或恢复为极简底边，用户曾嫌「很宽」）。
-- [ ] Stats 两卡高度视觉不齐时：调整 `layout=donut` 或 `langs_count` / `height`。
+- [x] Stats 两卡已改为 50/50 表格布局，统一 `width="100%"`、`height="200"`。
+- [x] 删除项目下方 social star 徽章，减少营销感。
 - [ ] 老 fork **Archive** 清单执行（用户未授权批量操作）。
 
 ### 7.3 优先级低 / 可选
