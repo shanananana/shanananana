@@ -8,7 +8,7 @@
 
 ## Hi there 👋
 
-- 98 年生，北京后端。
+- **shanananana** 这个名字来自《灼眼的夏娜》里的夏娜。98 年生，北京后端。
 - 老二次元，喜欢毛不易，也喜欢爬山。
 - 想去三山五岳、五湖四海看看：**三山 1/3 · 五岳 4/5 · 五湖四海 0**。
 - 主要在维护 **[DeepTicket](https://github.com/shanananana/deepticket)**，下班后做 **[shanaTavern](https://github.com/shanananana/shanaTavern)**。
@@ -33,7 +33,13 @@
 
 ## GitHub 数据
 
-<p align="center">
-  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=shanananana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9&card_width=430" alt="GitHub stats" />
-  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css,scss,dockerfile&card_width=430" alt="Most used languages" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=shanananana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9&card_width=430" alt="GitHub stats" width="100%" height="200" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css,scss,dockerfile&card_width=430" alt="Most used languages" width="100%" height="200" />
+    </td>
+  </tr>
+</table>
