@@ -75,17 +75,13 @@
 ## GitHub 概览
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shanananana&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css,scss,dockerfile" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shanananana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css,scss,dockerfile" alt="Most used languages" />
 </p>
 
-<details>
-  <summary><strong>贡献活动</strong></summary>
-  <br />
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanananana&bg_color=0d1117&color=58a6ff&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-  </p>
-</details>
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=shanananana&hide_border=true&background=0d1117&stroke=30363d&ring=8957e5&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shanananana&color=8957e5&style=flat-square&label=views" alt="profile views" />
