@@ -1,11 +1,5 @@
 <!-- Profile README for https://github.com/shanananana -->
 
-<p align="center">
-  <img src="./assets/header.svg" alt="shanananana" width="100%" />
-</p>
-
----
-
 ## Hi there 👋
 
 - 98 年生。`shanananana` 这个名字来自《灼眼的夏娜》里的夏娜。

@@ -25,7 +25,7 @@
 | 文件 | 作用 |
 | --- | --- |
 | `README.md` | Profile 首页正文（GitHub 自动展示在主页顶部） |
-| `assets/header.svg` | 顶图（静态 SVG，相对路径 `./assets/header.svg`） |
+| `assets/header.svg` | 已移除；主页改为轻量文字布局 |
 | `assets/footer.svg` | 页脚装饰条，**已从 README 移除引用**，文件仍在仓库，可删 |
 | `docs/GITHUB-PROFILE-HANDOFF.md` | 本文档 |
 
@@ -56,7 +56,7 @@
 1. **Pin 只要 2 个**：deepticket、ad_agent。  
 2. **不要 Demo 感**：项目描述、链接文案不要「示例 / Demo / 学习项目」当门面（ad_agent 仓库本体 README 可保留学习说明，Profile 层弱化）。  
 3. **不要公司标签**：README 已去掉 MOMO / Day Job 徽章。  
-4. **顶图**：不要慢动画（已弃用 capsule-render）；要静态、加载快。  
+4. **顶图**：已移除，主页保持轻量文字布局。
 5. **个人介绍为主**：技术能力通过项目和数据区体现，首屏先是人。  
 6. **朋友圈**：用户曾提供朋友圈截图作气质参考；**禁止把朋友圈原文、具体动态、地点人名抄上 README**。  
 7. **语气**：用户多次反馈 AI 写的话「太二」——要正常口语、短句、少修辞、少段子、少 emoji，像本人打字。  
@@ -86,18 +86,15 @@
 ## 4. 当前 Profile 结构（README.md）
 
 ```
-顶图 header.svg
 ## Hi there 👋     ← 6 条简短的个人介绍
 ## 最近在做        ← 2 项目表格，无额外 star 徽章
 ## GitHub 数据     ← stats + top-langs 两图，等宽等高表格
 （结束，无 footer / views）
 ```
 
-### 4.1 顶图文案（header.svg）
+### 4.1 首页视觉
 
-- 主标题：`shanananana`
-- 副标题：`Java boy，偶尔 AI 飞升`
-- 用户曾否决副标题：`北京 · 写代码，也好好过日子`（太二）
+- 已移除顶图，主页从 `Hi there 👋` 直接开始，保持轻量文字布局。
 
 ### 4.2 GitHub Stats URL（勿加 include_all_commits）
 
@@ -175,7 +172,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layou
 ### 7.1 优先级高
 
 - [x] **重写 `README.md`「关于我」**：已改成短句和日常说法，并加入名字来源。
-- [x] **顶图副标题**已改为「Java boy，偶尔 AI 飞升」。
+- [x] **顶图**已移除，避免视觉装饰和 GitHub 缓存造成的变化不明显。
 - [ ] 用户审阅后更新 **GitHub Settings → Bio / Website**（可选）。
 
 ### 7.2 优先级中
@@ -187,7 +184,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layou
 
 ### 7.3 优先级低 / 可选
 
-- [ ] 顶图改用 DeepTicket `docs/assets/banner-header.png` 裁剪版（更品牌/二次元，用户未选）。
+- [x] 顶图改用 DeepTicket `docs/assets/banner-header.png` 裁剪版（不再需要，已放弃）。
 - [ ] Profile README 仓库设为 private？（一般 profile  repo 需 public 才展示。）
 - [ ] 参考 yuchiXiong 增加 Wakatime / 博客 RSS（用户无站点则跳过）。
 
@@ -199,14 +196,13 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layou
 
 ---
 
-## 9. 附录：顶图 SVG 要点
+## 9. 附录：视觉取舍
 
-- 尺寸：1200×132  
-- 深色渐变 + 轻 wave + 居中主副标题  
-- 无动画、无外链图片依赖  
+- 当前没有顶图、footer 或 views 计数。
+- 首页重点放在个人介绍、项目和 GitHub 数据。
 
 ---
 
 ## 10. 给接手 AI / 协作者的一句话
 
-**文件在 `/Users/shanananana/shanananana/`，结构和 Pin 已定；主要工作是用人话重写「关于我」和必要时微调顶图副标题，严格用用户给的 98/北京/老二次元/毛不易/爬山进度事实，禁止抄朋友圈、禁止 Demo/公司标签、禁止「太二」的 AI 腔。**
+**文件在 `/Users/shanananana/shanananana/`，结构和 Pin 已定；主要工作是保持主页短、自然、像本人，严格用用户给的 98/北京/老二次元/毛不易的歌/爬山进度事实，禁止抄朋友圈、禁止 Demo/公司标签、禁止「太二」的 AI 腔。**
