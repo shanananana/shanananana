@@ -88,7 +88,7 @@
 ```
 顶图 header.svg
 ## Hi there 👋     ← 6 条简短的个人介绍
-## 最近在折腾      ← 2 项目表格，无额外 star 徽章
+## 最近在做        ← 2 项目表格，无额外 star 徽章
 ## GitHub 数据     ← stats + top-langs 两图，等宽等高表格
 （结束，无 footer / views）
 ```

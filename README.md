@@ -11,18 +11,17 @@
 - 98 年生。`shanananana` 这个名字来自《灼眼的夏娜》里的夏娜。
 - 老二次元，喜欢毛不易的歌，偶尔爬山。
 - 三山五岳、五湖四海还在慢慢打卡：**三山 1/3 · 五岳 4/5 · 五湖四海 0**。
-- 平时写后端，最近在折腾 **[DeepTicket](https://github.com/shanananana/deepticket)**。
-- **[shanaTavern](https://github.com/shanananana/shanaTavern)** 是下班后做着玩的东西。
-- 有事开 Issue，看到会回。
+- 平时写后端，最近在做 **[DeepTicket](https://github.com/shanananana/deepticket)**，给企业内部的工单排障用，少一点来回沟通。
+- **[shanaTavern](https://github.com/shanananana/shanaTavern)** 是下班后自己写着玩的。
 
 ---
 
-## 最近在折腾
+## 最近在做
 
 | | |
 | :--- | :--- |
-| **[DeepTicket](https://github.com/shanananana/deepticket)** | 给工单排障用的东西，自己还在用。 |
-| **[ad_agent](https://github.com/shanananana/ad_agent)** | 之前做的广告 Agent，偶尔回来看看。 |
+| **[DeepTicket](https://github.com/shanananana/deepticket)** | 企业内部工单排障，少一点来回沟通。 |
+| **[ad_agent](https://github.com/shanananana/ad_agent)** | 做过一个广告数据分析 Agent。 |
 
 ---
 
