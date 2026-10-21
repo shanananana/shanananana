@@ -25,7 +25,7 @@
 | 文件 | 作用 |
 | --- | --- |
 | `README.md` | Profile 首页正文（GitHub 自动展示在主页顶部） |
-| `assets/header.svg` | 已移除；主页改为轻量文字布局 |
+| `assets/header.svg` | 顶图（静态 SVG，相对路径 `./assets/header.svg`） |
 | `assets/footer.svg` | 页脚装饰条，**已从 README 移除引用**，文件仍在仓库，可删 |
 | `docs/GITHUB-PROFILE-HANDOFF.md` | 本文档 |
 
@@ -86,15 +86,17 @@
 ## 4. 当前 Profile 结构（README.md）
 
 ```
+顶图 header.svg   ← 静态深色渐变，副标题为「Java boy · 拥抱 AI · 机械飞升」
 ## Hi there 👋     ← 6 条简短的个人介绍
 ## 最近在做        ← 2 项目表格，无额外 star 徽章
 ## GitHub 数据     ← stats + top-langs 两图，等宽等高表格
 （结束，无 footer / views）
 ```
 
-### 4.1 首页视觉
+### 4.1 顶图文案（header.svg）
 
-- 已移除顶图，主页从 `Hi there 👋` 直接开始，保持轻量文字布局。
+- 主标题：`shanananana`
+- 副标题：`Java boy · 拥抱 AI · 机械飞升`
 
 ### 4.2 GitHub Stats URL（勿加 include_all_commits）
 
@@ -172,7 +174,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layou
 ### 7.1 优先级高
 
 - [x] **重写 `README.md`「关于我」**：已改成短句和日常说法，并加入名字来源。
-- [x] **顶图**已移除，避免视觉装饰和 GitHub 缓存造成的变化不明显。
+- [x] **顶图**已恢复为静态 SVG，副标题为「Java boy · 拥抱 AI · 机械飞升」。
 - [ ] 用户审阅后更新 **GitHub Settings → Bio / Website**（可选）。
 
 ### 7.2 优先级中
@@ -184,7 +186,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layou
 
 ### 7.3 优先级低 / 可选
 
-- [x] 顶图改用 DeepTicket `docs/assets/banner-header.png` 裁剪版（不再需要，已放弃）。
+- [ ] 顶图改用 DeepTicket `docs/assets/banner-header.png` 裁剪版（当前未选择）。
 - [ ] Profile README 仓库设为 private？（一般 profile  repo 需 public 才展示。）
 - [ ] 参考 yuchiXiong 增加 Wakatime / 博客 RSS（用户无站点则跳过）。
 
@@ -198,7 +200,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layou
 
 ## 9. 附录：视觉取舍
 
-- 当前没有顶图、footer 或 views 计数。
+- 当前保留静态顶图，不使用动画、footer 或 views 计数。
 - 首页重点放在个人介绍、项目和 GitHub 数据。
 
 ---
