@@ -1,10 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" aria-hidden="true">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="48" viewBox="0 0 1200 48" aria-hidden="true">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1f6feb"/>
-      <stop offset="100%" stop-color="#8957e5"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#1c2333"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#8957e5" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="56" fill="url(#bg)"/>
-  <path fill="#ffffff" fill-opacity="0.1" d="M0,24 C300,8 600,40 900,24 S1100,8 1200,20 L1200,56 L0,56 Z"/>
+  <rect width="1200" height="48" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="2" fill="url(#line)"/>
 </svg>

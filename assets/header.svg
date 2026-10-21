@@ -1,11 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="shanananana">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="148" viewBox="0 0 1200 148" role="img" aria-label="shanananana">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1f6feb"/>
-      <stop offset="100%" stop-color="#8957e5"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="148" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="45%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#1c2333"/>
     </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#a371f7"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="320" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="55%" stop-color="#8957e5"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
-  <rect width="1200" height="120" fill="url(#bg)"/>
-  <path fill="#ffffff" fill-opacity="0.08" d="M0,88 C200,72 400,104 600,88 S1000,72 1200,88 L1200,120 L0,120 Z"/>
-  <text x="600" y="70" text-anchor="middle" fill="#ffffff" font-size="42" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600">shanananana</text>
+
+  <rect width="1200" height="148" fill="url(#bg)"/>
+  <rect width="1200" height="148" fill="url(#grid)"/>
+
+  <ellipse cx="1040" cy="24" rx="200" ry="120" fill="#388bfd" opacity="0.14"/>
+  <ellipse cx="120" cy="148" rx="160" ry="100" fill="#8957e5" opacity="0.11"/>
+
+  <!-- mark: ticket + agent node -->
+  <g transform="translate(52, 42)">
+    <rect width="64" height="64" rx="16" fill="url(#accent)"/>
+    <rect x="14" y="16" width="36" height="28" rx="5" fill="#0d1117" opacity="0.35"/>
+    <rect x="18" y="20" width="28" height="20" rx="4" fill="#ffffff" opacity="0.95"/>
+    <rect x="22" y="26" width="14" height="2.5" rx="1.25" fill="#cbd5e1"/>
+    <rect x="22" y="32" width="20" height="2.5" rx="1.25" fill="#e2e8f0"/>
+    <rect x="22" y="38" width="16" height="2.5" rx="1.25" fill="#e2e8f0"/>
+    <circle cx="48" cy="48" r="11" fill="#0d1117" opacity="0.5"/>
+    <circle cx="48" cy="48" r="8" fill="#22c55e" opacity="0.95"/>
+    <path d="M45 48 L47 50 L52 44" stroke="#ffffff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="136" y="78" fill="#f0f6fc" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-0.5">shanananana</text>
+  <text x="136" y="108" fill="#8b949e" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, PingFang SC, Microsoft YaHei, sans-serif" font-size="17" font-weight="500">自托管 Agent · 工单与告警排障 · Spring AI</text>
+
+  <rect x="136" y="118" width="280" height="3" rx="1.5" fill="url(#accentLine)"/>
+
+  <!-- network motif -->
+  <g fill="#58a6ff" opacity="0.55">
+    <circle cx="920" cy="74" r="4"/>
+    <circle cx="968" cy="58" r="3"/>
+    <circle cx="1012" cy="82" r="3.5"/>
+    <circle cx="1064" cy="64" r="3"/>
+  </g>
+  <g stroke="#58a6ff" stroke-opacity="0.25" stroke-width="1.5" fill="none">
+    <path d="M920 74 L968 58 L1012 82 L1064 64"/>
+    <path d="M968 58 L1012 82"/>
+  </g>
+  <rect x="872" y="52" width="228" height="52" rx="12" fill="#ffffff" opacity="0.04" stroke="#30363d" stroke-width="1"/>
+  <text x="986" y="84" text-anchor="middle" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">agent · triage · spring-ai</text>
 </svg>
