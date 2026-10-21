@@ -17,8 +17,8 @@
 ## 最近在做
 
 <p align="center">
-  <a href="https://github.com/shanananana/deepticket"><img src="./assets/deepticket-card.svg" alt="DeepTicket" width="49%" /></a>
-  <a href="https://github.com/shanananana/ad_agent"><img src="./assets/ad-agent-card.svg" alt="ad_agent" width="49%" /></a>
+  <a href="https://github.com/shanananana/deepticket"><img src="./assets/deepticket-card.svg?v=2" alt="DeepTicket" width="49%" /></a>
+  <a href="https://github.com/shanananana/ad_agent"><img src="./assets/ad-agent-card.svg?v=2" alt="ad_agent" width="49%" /></a>
 </p>
 
 ---
