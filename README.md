@@ -4,84 +4,55 @@
   <img src="./assets/header.svg" alt="shanananana" width="100%" />
 </p>
 
-<h3 align="center">自托管 Agent · 工单与告警排障 · Spring AI</h3>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AIOps%20%26%20Agents-1f6feb?style=for-the-badge" alt="focus" />
-  <img src="https://img.shields.io/badge/Location-Beijing-8957e5?style=for-the-badge" alt="location" />
-</p>
+## 关于我
+
+- 👋 这里是 **shanananana**，GitHub 当笔记本用：能跑、能给别人参考，就留一份。
+- 📍 **北京**。白天写业务，晚上和周末折腾 Agent、工单排障这类「自己也会用」的东西。
+- 🧩 不太爱堆概念，更喜欢把链路跑通：接进来 → 查清楚 → 写回去。
+- 🍵 也会写点纯兴趣向的小项目（本地酒馆、Spring AI 玩具），和工作无关，图个开心。
+- 💬 看到 Issue / Discussion 一般会回；想法不对也欢迎直接说。
 
 ---
 
-## Hi there 👋
+## 最近在折腾
 
-- 🔧 做 **可自托管** 的 Agent 平台与行业垂类应用，专注工单排障、告警联动与内部系统集成
-- 🚀 当前主线 **[DeepTicket](https://github.com/shanananana/deepticket)** — 从工单/告警出发，串联代码、日志、配置与工具，完成首轮分析闭环
-- 📊 垂类实践 **[ad_agent](https://github.com/shanananana/ad_agent)** — 广告投放数据分析与策略辅助（Spring AI）
-- 📫 Issue / PR / Discussion 都欢迎
+| | |
+| :--- | :--- |
+| **[DeepTicket](https://github.com/shanananana/deepticket)** | 从工单和告警入手，帮一线同学少翻几遍日志。开源版在这里，持续维护中。 |
+| **[ad_agent](https://github.com/shanananana/ad_agent)** | 广告数据分析方向的 Agent 练习作，文档写比较全，当垂类参考看就行。 |
 
 <p align="center">
-  <a href="https://github.com/shanananana/deepticket#readme">
-    <img src="https://img.shields.io/github/stars/shanananana/deepticket?style=social" alt="deepticket stars" />
-  </a>
+  <a href="https://github.com/shanananana/deepticket"><img src="https://img.shields.io/github/stars/shanananana/deepticket?style=social" alt="deepticket stars" /></a>
   &nbsp;
-  <a href="https://github.com/shanananana/ad_agent">
-    <img src="https://img.shields.io/github/stars/shanananana/ad_agent?style=social" alt="ad_agent stars" />
-  </a>
+  <a href="https://github.com/shanananana/ad_agent"><img src="https://img.shields.io/github/stars/shanananana/ad_agent?style=social" alt="ad_agent stars" /></a>
 </p>
 
 ---
 
-## 在维护的项目
+## 仓库角落里还有
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shanananana/deepticket">DeepTicket</a></h3>
-      <p>AI 工单排障与 Agent 编排平台：Webhook / API 接入工单与告警，聚合代码、日志、配置与内部工具，Web 端自助分析与回写结论。</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/shanananana/deepticket?style=flat-square&logo=github" alt="stars" />
-        <img src="https://img.shields.io/github/v/release/shanananana/deepticket?style=flat-square&label=release" alt="release" />
-        <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
-        <img src="https://img.shields.io/badge/Docker-GHCR-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker" />
-      </p>
-      <p><a href="https://github.com/shanananana/deepticket/blob/main/README.zh.md"><strong>中文文档 →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shanananana/ad_agent">ad_agent</a></h3>
-      <p>广告垂类 Agent：基于投放与效果数据做归因分析，输出可执行的投放策略建议，配套完整文档与可运行工程。</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/shanananana/ad_agent?style=flat-square&logo=github" alt="stars" />
-        <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="spring ai" />
-      </p>
-      <p><a href="https://github.com/shanananana/ad_agent#readme"><strong>README →</strong></a></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 其他开源
-
-| 仓库 | 说明 |
+| 仓库 | 一句话 |
 | --- | --- |
-| [**deepticket4java**](https://github.com/shanananana/deepticket4java) | DeepTicket Java / Spring AI 版本 |
-| [**spring-ai-markdown-skills**](https://github.com/shanananana/spring-ai-markdown-skills) | Spring AI Markdown 技能加载 |
-| [**mcpDemo**](https://github.com/shanananana/mcpDemo) | MCP 协议集成参考 |
-| [**shanaTavern**](https://github.com/shanananana/shanaTavern) | 本地 AI 角色对话（FastAPI · 轻量酒馆） |
+| [deepticket4java](https://github.com/shanananana/deepticket4java) | DeepTicket 的 Java 线 |
+| [shanaTavern](https://github.com/shanananana/shanaTavern) | 本地 AI 酒馆，自己玩 |
+| [spring-ai-markdown-skills](https://github.com/shanananana/spring-ai-markdown-skills) | Markdown 技能加载的小实验 |
+| [mcpDemo](https://github.com/shanananana/mcpDemo) | MCP 集成备忘 |
 
 ---
 
-## GitHub 概览
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shanananana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css,scss,dockerfile" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=shanananana&hide_border=true&background=0d1117&stroke=30363d&ring=8957e5&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
-</p>
+<details>
+  <summary><strong>GitHub 数据（给好奇的人）</strong></summary>
+  <br />
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=shanananana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9" alt="GitHub stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css,scss,dockerfile" alt="Most used languages" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.demolab.com/?user=shanananana&hide_border=true&background=0d1117&stroke=30363d&ring=8957e5&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+  </p>
+</details>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shanananana&color=8957e5&style=flat-square&label=views" alt="profile views" />
