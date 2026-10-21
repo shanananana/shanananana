@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="shanananana">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f6feb"/>
+      <stop offset="100%" stop-color="#8957e5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="url(#bg)"/>
+  <path fill="#ffffff" fill-opacity="0.08" d="M0,88 C200,72 400,104 600,88 S1000,72 1200,88 L1200,120 L0,120 Z"/>
+  <text x="600" y="70" text-anchor="middle" fill="#ffffff" font-size="42" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600">shanananana</text>
+</svg>

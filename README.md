@@ -1,7 +1,7 @@
 <!-- Profile README for https://github.com/shanananana -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8957e5&height=120&section=header&text=shanananana&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="./assets/header.svg" alt="shanananana" width="100%" />
 </p>
 
 <h3 align="center">自托管 Agent · 工单与告警排障 · Spring AI</h3>
@@ -92,5 +92,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8957e5&height=80&section=footer&animation=fadeIn" alt="footer" />
+  <img src="./assets/footer.svg" alt="" width="100%" />
 </p>
