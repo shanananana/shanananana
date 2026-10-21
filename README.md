@@ -8,11 +8,11 @@
 
 ## 关于我
 
-- **shanananana**，98 年生，人在北京。上时代留下来的那种老二次元。
-- 听歌很偏 **毛不易**，别的也听，但循环列表里他占比最高。
-- 爱爬山。给自己挖了个坑：想把 **三山五岳** 和 **五湖四海** 都走完——进度大概是 **三山 1/3 · 五岳 4/5 · 五湖四海 0**（后头这项还没动过）。
-- 白天写后端，GitHub 上主要是 **[DeepTicket](https://github.com/shanananana/deepticket)**；**[shanaTavern](https://github.com/shanananana/shanaTavern)** 纯属个人爱好，和上班无关。
-- 仓库有问题开 Issue 就行，看见会回。
+- 98 年生，人在北京。老二次元，平时写后端。
+- 喜欢毛不易的歌，偶尔也爬山。
+- 想去三山五岳、五湖四海看看。目前是 **三山 1/3 · 五岳 4/5 · 五湖四海 0**。
+- GitHub 上主要放 **[DeepTicket](https://github.com/shanananana/deepticket)**，**[shanaTavern](https://github.com/shanananana/shanaTavern)** 是下班后做着玩的东西。
+- 仓库有问题可以开 Issue，我看到了会回。
 
 ---
 
