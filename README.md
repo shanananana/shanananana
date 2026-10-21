@@ -38,11 +38,3 @@
   <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=shanananana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9&card_width=430" alt="GitHub stats" />
   <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css,scss,dockerfile&card_width=430" alt="Most used languages" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shanananana&color=8957e5&style=flat-square&label=views" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="./assets/footer.svg" alt="" width="100%" />
-</p>
