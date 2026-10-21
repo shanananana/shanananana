@@ -96,7 +96,7 @@
 ### 4.1 顶图文案（header.svg）
 
 - 主标题：`shanananana`
-- 副标题：`平时写后端，业余时间折腾自己的项目`
+- 副标题：`Java boy，偶尔 AI 飞升`
 - 用户曾否决副标题：`北京 · 写代码，也好好过日子`（太二）
 
 ### 4.2 GitHub Stats URL（勿加 include_all_commits）
@@ -175,7 +175,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=shanananana&layou
 ### 7.1 优先级高
 
 - [x] **重写 `README.md`「关于我」**：已改成短句和日常说法，并加入名字来源。
-- [x] **顶图副标题**已改为「平时写后端，业余时间折腾自己的项目」。
+- [x] **顶图副标题**已改为「Java boy，偶尔 AI 飞升」。
 - [ ] 用户审阅后更新 **GitHub Settings → Bio / Website**（可选）。
 
 ### 7.2 优先级中
